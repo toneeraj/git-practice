@@ -1,7 +1,2 @@
-<<<<<<< HEAD
- have added another file for another commit test.
-
- some more changes added in another file.
-=======
- have added another file for another commit test.
->>>>>>> d3ed87c... added another File
+sdfsdfsfs
+dsfsfs
