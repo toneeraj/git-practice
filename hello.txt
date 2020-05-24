@@ -1,3 +1,1 @@
-This is hello world.
-Adding another line.
-some more changes for rebase test
+Hello 1 - First Commit

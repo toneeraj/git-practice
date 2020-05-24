@@ -1,2 +1,17 @@
 # git-practice
-Sample project for just simple git playground
+
+This is for the git rebase commands
+
+# Commands used frequently
+`git rebase -i feature_branch`
+
+`git add .`
+
+`git add <name of file>`
+
+`git commit -m "test message"`
+
+
+
+
+
