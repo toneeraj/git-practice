@@ -1,5 +1,3 @@
-Hello 1 - First Commit
-
-A\I am one lne that should be squashed.
-
-I am another line that shuld be squashed
+sdfsdfsd
+sdfsdkfsdkjfklsdj
+asdfjsdkfjaskldk
